@@ -2235,6 +2235,7 @@ input, select, textarea {
 		}
 
 		#intro p {
+			text-align: center;
 			margin: 0;
 		}
 
@@ -2537,6 +2538,9 @@ input, select, textarea {
 					#intro footer ul.actions {
 						margin-bottom: 0;
 					}
+		#intro p {
+					text-align: center;
+				}
 
 		/* Main */
 
@@ -2882,6 +2886,12 @@ input, select, textarea {
 				#intro h2 {
 					font-size: 1.25em;
 				}
+		#intro p {
+					text-align: center;
+				}
+		}
+
+				
 
 		/* Banner */
 
