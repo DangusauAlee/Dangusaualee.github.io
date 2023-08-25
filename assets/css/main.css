@@ -1598,6 +1598,10 @@ input, select, textarea {
 		.box.post header > p {
 			margin-top: 1.25em;
 			font-size: 1.25em;
+			
+		}
+		.box.post p {
+			text-align: justify;
 		}
 
 		.box footer ul.actions {
@@ -2195,7 +2199,7 @@ input, select, textarea {
 				font-size: 1.5em;
 				margin: 0 0 0.5em 0;
 				padding-left: 0%;
-				padding-top: 2%;
+				padding-top: 1%;
 				
 			}
 
