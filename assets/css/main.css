@@ -1600,6 +1600,7 @@ input, select, textarea {
 		.box.post header > p {
 			margin-top: 1.25em;
 			font-size: 1.25em;
+			text-align: justify;
 			
 		}
 		.box.post p {
